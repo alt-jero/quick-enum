@@ -4,6 +4,9 @@ Make an object immutable, and allow it to be called as a function to check if it
 * Input: A normal object to turn into an immutable enum
 * Output: A function with immutably set properties
 
+## Installation
+`npm i quick-enum`
+
 ## Usage
 ```javascript
 // Require the function
