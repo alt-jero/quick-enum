@@ -1,0 +1,15 @@
+{
+  "name": "quick-enum",
+  "version": "0.0.0",
+  "description": "Make an object immutable, and allow it to be called as a function to check if it contains a specific value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "enum",
+    "quick"
+  ],
+  "author": "Jeremy Rumble <jero.rumble@gmail.com> (alt-jero)",
+  "license": "Unlicense"
+}
